@@ -1,13 +1,12 @@
 # Integrazione dei dati spaziali e creazione di un Knowledge Graph
-Università degli Studi di Milano-Bicocca
-Dipartimento di Informatica, Sistemistica e Comunicazione
+Università degli Studi di Milano-Bicocca  
+Dipartimento di Informatica, Sistemistica e Comunicazione  
 Corso di Laurea in Informatica
 
-
 ### Obiettivi formativi e competenze acquisite
-Comprendere i principi base dell'integrazione dei dati spaziali
-Identificare le sfide e le problematiche legate all'integrazione di dati spaziali eterogenei
-Definire la struttura e la semantica di un Knowledge Graph per dati spaziali
+Comprendere i principi base dell'integrazione dei dati spaziali  
+Identificare le sfide e le problematiche legate all'integrazione di dati spaziali eterogenei  
+Definire la struttura e la semantica di un Knowledge Graph per dati spaziali  
 Implementare un Knowledge Graph utilizzando tecnologie RDF/OWL/SPARQL
 
 ### Descrizione
